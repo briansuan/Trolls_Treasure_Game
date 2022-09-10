@@ -1,5 +1,3 @@
-# Trolls_Treasure_Game
+# Trolls_Treasure
 
-This simple desktop game was a final project for my CISC 190 (intro to java programming) class.
-The main objective of this project was to utilize object oriented programming.
-
+A 2D game of finding treasures and dodging trolls. 
